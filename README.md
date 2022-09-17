@@ -1,5 +1,10 @@
 # deyeinfo
 Get the info of the deye dehumidifier
+运行环境 Python3+
+
+```shell
+python deyeinfo.py
+```
 
 ```
 请输入德业用户名密码
