@@ -2,7 +2,7 @@
 Get the info of the deye dehumidifier
 
 运行环境 Python3+
-（德业MQTT协议分析可参见 https://kejinlu.com/2022/10/deye-homeassistant/）
+（德业MQTT协议分析可参见 https://kejinlu.com/2022/10/deye-homeassistant/ ）
 
 ```shell
 python deyeinfo.py
